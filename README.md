@@ -1,3 +1,3 @@
 # janhavipawardemo
 this is my first project
-Author-janhavi pawar
+Author-janhavi pawar my project
